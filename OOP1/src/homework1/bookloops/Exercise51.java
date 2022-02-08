@@ -16,7 +16,7 @@ public class Exercise51 {
             }
         }
         if (ptr == 0) {
-            System.out.println("Atlanta and Macon have no common prefix");
+            System.out.println(str1 + " and " + str2 + " have no common prefix");
         } else {
             System.out.println("The common prefix is " + str1.substring(0, ptr));
         }
