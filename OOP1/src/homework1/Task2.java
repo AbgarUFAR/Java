@@ -2,9 +2,9 @@ package homework1;
 
 import homework1.configs.Config;
 import homework1.exceptions.InvalidBehaviorException;
-import homework1.utils.Utility;
+import utils.Utility;
 
-import static homework1.utils.Input.scan;
+import static utils.Input.scan;
 
 public class Task2 {
     public static void main(String[] args) {

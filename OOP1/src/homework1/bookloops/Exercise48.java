@@ -1,6 +1,6 @@
 package homework1.bookloops;
 
-import static homework1.utils.Input.scan;
+import static utils.Input.scan;
 
 public class Exercise48 {
     public static void main(String[] args) {

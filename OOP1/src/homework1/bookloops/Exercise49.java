@@ -1,8 +1,8 @@
 package homework1.bookloops;
 
-import homework1.utils.CharacterUtils;
+import utils.CharacterUtils;
 
-import static homework1.utils.Input.scan;
+import static utils.Input.scan;
 
 public class Exercise49 {
     public static void main(String[] args) {
