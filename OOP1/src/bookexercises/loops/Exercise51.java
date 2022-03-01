@@ -1,4 +1,4 @@
-package homework1.bookloops;
+package bookexercises.loops;
 
 import static utils.Input.scan;
 
